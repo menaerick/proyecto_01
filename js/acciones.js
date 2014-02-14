@@ -4,6 +4,6 @@ $(document).ready(function(){
 		$('#B1').tap(function(){navigator.notificacion.beep(1);} );
 		
 		
-		})//device ready
+		});//device ready
 	
 	});//ready
